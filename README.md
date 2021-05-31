@@ -1,2 +1,5 @@
 # Rainbow Globe
-A collection of webpages part of Rainbow Globe Group to help educate on the basics of Web Development
+
+A simple online bookmark website that allows users to register and save their bookmarks online. As well as a simple online school where users can upload their classes (The format for classes must be in XML).
+
+Site can be viewed [here](http://elninokr.com/rainbow-globe/index.htm).
